@@ -1,0 +1,7 @@
+/development/
+/test/
+/node_modules/
+/index.*
+/animate.*
+/position.*
+/animate-controller.*
